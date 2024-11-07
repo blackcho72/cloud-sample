@@ -32,7 +32,7 @@
 	<repositories>
 		<repository>
 		<id>github</id>
-		<url>https://maven.pkg.github.com/axccoe/cloud-sample</url>
+		<url>https://maven.pkg.github.com/axccoe/cloud-sample1</url>
 		</repository>
 	</repositories>
 	<distributionManagement>
